@@ -96,7 +96,7 @@ signed main() {
     cin.sync_with_stdio(0); cin.tie(0);
     cin.exceptions(cin.failbit);
 	
-
+//https://math.stackexchange.com/questions/274712/calculate-on-which-side-of-a-straight-line-is-a-given-point-located
 	
 	scan(a.x , a.y , b.x , b.y);
 	int m ; scan(m) ; while(m--){	
